@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.title {
+  text-align: center;
+  font-size: 50px;
+}
+/* Hero */
+.hero_img {
+  width: 95%;
+  height: 400px;
+  margin: 20px auto;
+  margin-top: 100px;
+}
